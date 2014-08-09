@@ -1,2 +1,2 @@
-Data Science Course requrement for Coursera
-===========================================
+Data Science Course Requirement for Coursera
+============================================
